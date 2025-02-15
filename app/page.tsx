@@ -4,6 +4,7 @@ import Experience from "@/components/Experience";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 import Projects from "@/components/Projects";
+import Websites from "@/components/Websites";
 
 export default function Home() {
   return (
@@ -21,6 +22,7 @@ export default function Home() {
         <Banner />
         <About />
         <Experience />
+        <Websites />
         <Projects />
         <Footer />
       </div>

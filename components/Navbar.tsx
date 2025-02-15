@@ -27,6 +27,14 @@ const Navbar = () => {
           </a>
 
           <div className="flex flex-row gap-5">
+            <a
+              href="https://12stonedesigns.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="z-[1] bg-transparent padding-10 cursor-pointer bg-black hover:bg-[#2E2E2E] rounded-xl text-neon-blue py-2 px-5"
+            >
+              Back to 12Stone Designs
+            </a>
             <button
               onClick={() => setShowContact(true)}
               className="z-[1] bg-transparent padding-10 cursor-pointer bg-black hover:bg-[#2E2E2E] rounded-xl text-neon-blue py-2 px-5"
