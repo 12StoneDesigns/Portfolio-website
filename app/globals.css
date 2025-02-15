@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;800&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.neon-blue {
+  color: #00f3ff;
+  text-shadow: 0 0 10px #00f3ff,
+               0 0 20px #00f3ff,
+               0 0 30px #00f3ff;
+}
+
+.text-neon-blue {
+  color: #00f3ff;
+}
