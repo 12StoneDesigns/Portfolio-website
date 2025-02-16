@@ -8,9 +8,9 @@ import Websites from "@/components/Websites";
 
 export default function Home() {
   return (
-    <main className="h-screen w-full relative">
+    <main className="min-h-screen w-full relative">
       <div 
-        className="absolute inset-0 z-[-1]"
+        className="fixed inset-0 z-[-1]"
         style={{ 
           backgroundImage: "url('/LooperGroup2.png')", 
           backgroundRepeat: 'no-repeat', 
