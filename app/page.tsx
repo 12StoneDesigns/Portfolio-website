@@ -14,7 +14,8 @@ export default function Home() {
         style={{ 
           backgroundImage: "url('/LooperGroup2.png')", 
           backgroundRepeat: 'no-repeat', 
-          backgroundSize: '50%', 
+          backgroundSize: 'cover', 
+          backgroundAttachment: 'fixed',
           backgroundPosition: 'center',
           opacity: '0.3'
         }}
