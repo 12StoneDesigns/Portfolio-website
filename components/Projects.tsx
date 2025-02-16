@@ -11,7 +11,7 @@ const Projects: React.FC<{}> = () => {
       <div className="container mx-auto 2xl px-4">
         <div className="flex-col flex md:flex-row mt-10 gap-8 justify-center">
           {/* Conversify AI */}
-          <Link href="#" className="z-[1] w-full">
+          <Link href="https://github.com/12StoneDesigns/Conversify-AI" target="_blank" rel="noopener noreferrer" className="z-[1] w-full">
             <div className="flex flex-col md:flex-row items-center mb-5 bg-[#0000001a] backdrop-blur-sm rounded-lg overflow-hidden hover:bg-[#ffffff0a] transition-all duration-250 w-full">
               <div className="w-[250px] h-[250px] relative m-4 mx-auto md:mx-4">
                 <Image
@@ -32,8 +32,8 @@ const Projects: React.FC<{}> = () => {
               </div>
             </div>
           </Link>
-          {/* GameSentinel */}
-          <Link href="#" className="z-[1] w-full">
+          {/* Game Sentinel */}
+          <Link href="https://github.com/12StoneDesigns/Game-Sentinel" target="_blank" rel="noopener noreferrer" className="z-[1] w-full">
             <div className="flex flex-col md:flex-row items-center mb-5 bg-[#0000001a] backdrop-blur-sm rounded-lg overflow-hidden hover:bg-[#ffffff0a] transition-all duration-250 w-full">
               <div className="w-[250px] h-[250px] relative m-4 mx-auto md:mx-4">
                 <Image
@@ -42,11 +42,11 @@ const Projects: React.FC<{}> = () => {
                   sizes="250px"
                   style={{ objectFit: "cover" }}
                   className="rounded-lg"
-                  alt="GameSentinel"
+                  alt="Game Sentinel"
                 />
               </div>
               <div className="p-6 flex flex-col gap-4 flex-1 text-center md:text-left">
-                <p className="text-transparent bg-clip-text bg-gradient-to-r from-[#00FF00] to-[#6600FF] font-semibold text-2xl transition-all duration-250 hover:scale-105">GameSentinel</p>
+                <p className="text-transparent bg-clip-text bg-gradient-to-r from-[#00FF00] to-[#6600FF] font-semibold text-2xl transition-all duration-250 hover:scale-105">Game Sentinel</p>
                 <p className="text-[#00FFFF] text-sm transition-all duration-250 hover:brightness-125">
                   Automated testing framework
                   player behavior and detect bugs in real-time.
@@ -56,8 +56,8 @@ const Projects: React.FC<{}> = () => {
           </Link>
         </div>
         <div className="flex-col flex md:flex-row gap-8 justify-center mt-8">
-          {/* ResolveIQ */}
-          <Link href="#" className="z-[1] w-full">
+          {/* Resolve IQ */}
+          <Link href="https://github.com/12StoneDesigns/Resolve-IQ" target="_blank" rel="noopener noreferrer" className="z-[1] w-full">
             <div className="flex flex-col md:flex-row items-center mb-5 bg-[#0000001a] backdrop-blur-sm rounded-lg overflow-hidden hover:bg-[#ffffff0a] transition-all duration-250 w-full">
               <div className="w-[250px] h-[250px] relative m-4 mx-auto md:mx-4">
                 <Image
@@ -66,11 +66,11 @@ const Projects: React.FC<{}> = () => {
                   sizes="250px"
                   style={{ objectFit: "cover" }}
                   className="rounded-lg"
-                  alt="ResolveIQ"
+                  alt="Resolve IQ"
                 />
               </div>
               <div className="p-6 flex flex-col gap-4 flex-1 text-center md:text-left">
-                <p className="text-transparent bg-clip-text bg-gradient-to-r from-[#00FF00] to-[#6600FF] font-semibold text-2xl transition-all duration-250 hover:scale-105">ResolveIQ</p>
+                <p className="text-transparent bg-clip-text bg-gradient-to-r from-[#00FF00] to-[#6600FF] font-semibold text-2xl transition-all duration-250 hover:scale-105">Resolve IQ</p>
                 <p className="text-[#00FFFF] text-sm transition-all duration-250 hover:brightness-125">
                   Smart complaint management system
                   categorization and resolution suggestions.
@@ -79,7 +79,7 @@ const Projects: React.FC<{}> = () => {
             </div>
           </Link>
           {/* CryptoSage */}
-          <Link href="#" className="z-[1] w-full">
+          <Link href="https://github.com/12StoneDesigns/CryptoSage" target="_blank" rel="noopener noreferrer" className="z-[1] w-full">
             <div className="flex flex-col md:flex-row items-center mb-5 bg-[#0000001a] backdrop-blur-sm rounded-lg overflow-hidden hover:bg-[#ffffff0a] transition-all duration-250 w-full">
               <div className="w-[250px] h-[250px] relative m-4 mx-auto md:mx-4">
                 <Image
@@ -103,7 +103,7 @@ const Projects: React.FC<{}> = () => {
         </div>
         <div className="flex-col flex md:flex-row gap-8 justify-center mt-8">
           {/* DocSynth */}
-          <Link href="#" className="z-[1] w-full">
+          <Link href="https://github.com/12StoneDesigns/DocSynth" target="_blank" rel="noopener noreferrer" className="z-[1] w-full">
             <div className="flex flex-col md:flex-row items-center mb-5 bg-[#0000001a] backdrop-blur-sm rounded-lg overflow-hidden hover:bg-[#ffffff0a] transition-all duration-250 w-full">
               <div className="w-[250px] h-[250px] relative m-4 mx-auto md:mx-4">
                 <Image
@@ -125,7 +125,7 @@ const Projects: React.FC<{}> = () => {
             </div>
           </Link>
           {/* WingMate-AI */}
-          <Link href="#" className="z-[1] w-full">
+          <Link href="https://github.com/12StoneDesigns/WingMate-AI" target="_blank" rel="noopener noreferrer" className="z-[1] w-full">
             <div className="flex flex-col md:flex-row items-center mb-5 bg-[#0000001a] backdrop-blur-sm rounded-lg overflow-hidden hover:bg-[#ffffff0a] transition-all duration-250 w-full">
               <div className="w-[250px] h-[250px] relative m-4 mx-auto md:mx-4">
                 <Image
@@ -149,7 +149,7 @@ const Projects: React.FC<{}> = () => {
         </div>
         <div className="flex-col flex md:flex-row gap-8 justify-center mt-8">
           {/* AIorNOT */}
-          <Link href="#" className="z-[1] w-full">
+          <Link href="https://github.com/12StoneDesigns/AIorNot" target="_blank" rel="noopener noreferrer" className="z-[1] w-full">
             <div className="flex flex-col md:flex-row items-center mb-5 bg-[#0000001a] backdrop-blur-sm rounded-lg overflow-hidden hover:bg-[#ffffff0a] transition-all duration-250 w-full">
               <div className="w-[250px] h-[250px] relative m-4 mx-auto md:mx-4">
                 <Image

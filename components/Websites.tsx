@@ -34,7 +34,7 @@ const Websites: React.FC<{}> = () => {
             </div>
           </Link>
           {/* Portfolio Website */}
-          <Link href="/" className="z-[1] w-full">
+          <Link href="https://github.com/12StoneDesigns/Portfolio-website" target="_blank" rel="noopener noreferrer" className="z-[1] w-full">
             <div className="flex flex-col md:flex-row items-center mb-5 bg-[#0000001a] backdrop-blur-sm rounded-lg overflow-hidden hover:bg-[#ffffff0a] transition-all duration-250 w-full">
               <div className="w-[250px] h-[250px] relative m-4 mx-auto md:mx-4">
                 <Image
