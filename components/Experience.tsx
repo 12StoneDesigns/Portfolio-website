@@ -18,16 +18,16 @@ const Experience: React.FC<{}> = () => {
               alt="12Stone Designs"
             />
             <p className="text-[#00FFFF] transition-all duration-300 hover:brightness-125">
-              <span className="font-semibold bg-clip-text text-transparent bg-gradient-to-r from-[#39FF14] to-[#6600FF]">12Stone Designs /</span> AI Engineer
+              <span className="font-semibold bg-clip-text text-transparent bg-gradient-to-r from-[#39FF14] to-[#6600FF]">12Stone Designs /</span> Founder & Digital Solutions Architect
             </p>
           </div>
           <p className="text-[#00FFFF] md:pt-0 pt-3">Present</p>
         </div>
         <p className="text-[#00FFFF] pt-5 transition-all duration-300 hover:brightness-125">
-          Leading the development of AI-driven web applications, focusing on innovative 
-          solutions that combine artificial intelligence with user-centric design. 
-          Specializing in creating intelligent systems that enhance user experience 
-          and business efficiency.
+          Developed AI-powered web applications that enhance automation, efficiency, and scalability.
+          Designed and deployed RESTful APIs and microservices to support dynamic, high-performance systems.
+          Integrated machine learning models for real-time data analysis and predictive insights.
+          Created responsive, intuitive front-end experiences using React and modern UI/UX principles.
         </p>
         <div className="flex-col flex sm:flex-row">
           <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl neon-blue py-2 px-5 border border-[#2E2E2E] w-max">
@@ -57,11 +57,13 @@ const Experience: React.FC<{}> = () => {
               <span className="font-semibold bg-clip-text text-transparent bg-gradient-to-r from-[#39FF14] to-[#6600FF]">Mutt Brewing Co. /</span> Digital Strategy Lead
             </p>
           </div>
-          <p className="text-[#00FFFF] md:pt-0 pt-3">2022 - 2023</p>
+          <p className="text-[#00FFFF] md:pt-0 pt-3">2022 - 2024</p>
         </div>
         <p className="text-[#00FFFF] pt-5 transition-all duration-300 hover:brightness-125">
-          Spearheaded digital transformation initiatives, implementing modern web solutions 
-          and automation systems to streamline operations and enhance customer experience.
+          Led a complete digital transformation, implementing online ordering and AI-driven customer analytics.
+          Developed a dynamic, high-performance website using React and Django, increasing online engagement by 40%.
+          Devised and executed targeted marketing strategies using SEO, Google Analytics, and automated campaigns.
+          Optimized cloud infrastructure and databases to improve site speed and reliability.
         </p>
         <div className="flex-col flex sm:flex-row">
           <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl neon-blue py-2 px-5 border border-[#2E2E2E] w-max">
@@ -85,15 +87,16 @@ const Experience: React.FC<{}> = () => {
               alt="Lennox National Accounts"
             />
             <p className="text-[#00FFFF] transition-all duration-300 hover:brightness-125">
-              <span className="font-semibold bg-clip-text text-transparent bg-gradient-to-r from-[#39FF14] to-[#6600FF]">Lennox National Accounts /</span> Operations Engineer
+              <span className="font-semibold bg-clip-text text-transparent bg-gradient-to-r from-[#39FF14] to-[#6600FF]">Lennox National Accounts /</span> Operations Manager
             </p>
           </div>
-          <p className="text-[#00FFFF] md:pt-0 pt-3">2020 - 2022</p>
+          <p className="text-[#00FFFF] md:pt-0 pt-3">2013 - 2022</p>
         </div>
         <p className="text-[#00FFFF] pt-5 transition-all duration-300 hover:brightness-125">
-          Developed and implemented automation solutions for operational processes, 
-          resulting in significant efficiency improvements and cost savings. Led the 
-          digital transformation of key business processes.
+          Oversaw multi-state HVAC operations, ensuring compliance and operational excellence.
+          Developed and deployed automated tracking systems to improve service dispatch efficiency.
+          Negotiated vendor contracts, reducing operational expenses by 15%.
+          Implemented workforce management tools to optimize scheduling and resource allocation.
         </p>
         <div className="flex-col flex sm:flex-row">
           <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl neon-blue py-2 px-5 border border-[#2E2E2E] w-max">
