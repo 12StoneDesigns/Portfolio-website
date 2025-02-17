@@ -13,14 +13,14 @@ const Banner: React.FC<{}> = () => {
             src="/logo.png"
             height={250}
             width={250}
-            alt="Tyler Love"
+            alt="T. Landon Love"
             className="rounded-full"
           />
         </div>
 
         <div className="flex flex-col gap-6 mt-10 tracking-tighter text-7xl font-semibold max-w-[600px] w-auto h-auto">
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#00FF00] via-[#00FF99] to-[#6600FF] hover:from-[#6600FF] hover:via-[#00FF99] hover:to-[#00FF00] transition-all duration-500">
-            Tyler Love
+            T. Landon Love
           </span>
         </div>
         <div className="flex justify-center">

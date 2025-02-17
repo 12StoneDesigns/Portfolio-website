@@ -10,11 +10,11 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_URL || "http://localhost:3002/"),
-  title: "Tyler Love - Full Stack Developer & AI Engineer",
+  title: "T. Landon Love - Full Stack Developer & AI Engineer",
   description:
     "Full Stack Developer & AI Engineer specializing in creating innovative solutions that bridge the gap between human interaction and artificial intelligence.",
   keywords: [
-    "Tyler Love",
+    "T. Landon Love",
     "Full Stack Developer",
     "AI Engineer",
     "Portfolio",
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     "Artificial Intelligence",
   ],
   openGraph: {
-    title: "Tyler Love - Full Stack Developer & AI Engineer",
+    title: "T. Landon Love - Full Stack Developer & AI Engineer",
     description:
       "Full Stack Developer & AI Engineer specializing in creating innovative solutions that bridge the gap between human interaction and artificial intelligence.",
     images: [
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
         url: "/logo.png",
         width: 800,
         height: 600,
-        alt: "Tyler Love Portfolio",
+        alt: "T. Landon Love Portfolio",
       },
     ],
   }

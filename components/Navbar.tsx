@@ -12,13 +12,13 @@ const Navbar = () => {
       <div className="w-full h-[65px] bg-['#111'] fixed backdrop-blur-sm z-50 px-10">
         <div className="w-full h-full flex flex-row items-center justify-between m-auto px-[10px]">
           <a
-            title="Tyler Love"
+            title="T. Landon Love"
             href="/"
             className="h-auto w-auto flex flex-row items-center"
           >
             <Image
               src="/logo.png"
-              alt="Tyler Love - Full Stack Developer & AI Engineer"
+              alt="T. Landon Love - Full Stack Developer & AI Engineer"
               width={40}
               height={40}
               priority
